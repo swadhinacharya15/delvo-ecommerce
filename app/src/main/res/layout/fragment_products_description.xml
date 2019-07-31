@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductsDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is just a dummy text of product details, this data will be feteched from server for every product when app is live and intigrated with backend server,as of now this is expected as per design document!. HAPPY SHOPPING :) .Thank you Track pants with logo: be it regular workouts at the gym or you want to step out for a coffee or dinner with friends in sporty style. These track pants for men with logo will help you flaunt your unique style wherever you go Slim fit ,2 Zip Pockets for Sports"
+        android:layout_margin="16dp"
+        android:textColor="#000000"/>
+</FrameLayout>

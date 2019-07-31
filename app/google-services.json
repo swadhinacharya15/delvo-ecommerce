@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631761185628",
+    "firebase_url": "https://delvo-b7f6a.firebaseio.com",
+    "project_id": "delvo-b7f6a",
+    "storage_bucket": "delvo-b7f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631761185628:android:62f91f16d01b9a2d",
+        "android_client_info": {
+          "package_name": "com.delvo.commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631761185628-62r70k54hfe6s1r0ct33l90vnlpb74kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyF3FwEuSTj4j_DTQvAQqF0ODr2d9UII4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631761185628-62r70k54hfe6s1r0ct33l90vnlpb74kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
